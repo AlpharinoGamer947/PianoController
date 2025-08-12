@@ -21,7 +21,7 @@ public class IsoCoreKeyBinding {
     private static volatile boolean moveLeft = false;
     private static volatile boolean moveRight = false;
 
-    public IsoCoreKeyBinding(int mouseOctaveNum) {
+    public IsoCoreKeyBinding() {
     }
 
     public static Keys press(int key) {
