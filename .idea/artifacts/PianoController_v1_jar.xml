@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PianoController_v1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PianoController_v1_jar</output-path>
+    <root id="archive" name="PianoController_v1.jar">
+      <element id="module-output" name="PianoController_v1" />
+    </root>
+  </artifact>
+</component>
