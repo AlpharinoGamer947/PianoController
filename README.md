@@ -4,7 +4,17 @@
 I was so intrigued with concept that I built the **PianoController**.
 With this people can play video games.**
 
-# PianoController V1
+## Run PianoController
+
+1. Go to **Releases** on the right.
+2. Click on **PianoController 0.1.4 Alpha**
+3. Download/Click **PianoController_v0_1_4_alpha**
+4. Extract from Zip and enter **extracted** folder
+5. Double Click PianoController_0_1_4_alpha.exe
+6. Microsoft Defender will show **Windows protected your PC**
+7. Click on **More Info** on the bottom
+8. Click **Run anyway**
+9. PianoController is running
 
 ## Details
 
