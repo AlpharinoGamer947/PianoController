@@ -16,6 +16,16 @@ With this people can play video games.**
 8. Click **Run anyway**
 9. PianoController is running
 
+## How to use PianoController
+
+1. When app starts to run, it will ask the user for some question.
+2. First: The device that will be used to control PC/Laptop
+3. Second: The number of Octaves.
+
+> Octave: group of 12 key. 7 WhiteKeys (w) and 5 BlackKeys (b).\
+> Keys in order from left to right: w b w b w w b w b w b w.\
+> Starts at C and ends with B.
+
 ## Details
 
 This program coverts digital piano input to virtual keyboard
